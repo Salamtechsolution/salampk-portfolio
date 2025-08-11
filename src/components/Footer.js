@@ -46,7 +46,7 @@ const Footer = () => {
                 <FontAwesomeIcon icon={faEnvelope} />
               </a>
               <a 
-                href="tel:+971544741052" 
+                href="tel:+971564741052" 
                 className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center text-gray-400 hover:bg-secondary hover:text-white transition-all"
               >
                 <FontAwesomeIcon icon={faPhone} />
