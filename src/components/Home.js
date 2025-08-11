@@ -51,7 +51,7 @@ const Home = () => {
               <span className="text-sm text-gray-500">Connect with me</span>
               <div className="flex gap-4">
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/Salamtechsolution" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-white/20 transition-colors"
