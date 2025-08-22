@@ -25,7 +25,7 @@ const Home = () => {
               Hi, I'm <span className="gradient-text">Abdu Salam</span>
             </h1>
             <h2 className="text-2xl md:text-3xl font-light text-gray-300 mb-6">
-              Front-End Developer & UI/UX Enthusiast
+              Web Developer & AI Enthusiast
             </h2>
             <p className="text-lg text-gray-400 mb-10 max-w-2xl leading-relaxed">
               Crafting beautiful, performant web experiences with modern technologies. 
